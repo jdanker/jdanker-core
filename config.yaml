@@ -3,7 +3,14 @@ languageCode: en-us
 title: Jahred Danker
 theme: PaperMod
 
+enableInlineShortcodes: true
+enableRobotsTXT: true
+enableEmoji: true
+
 params:
+    env: production
+    ShowShareButtons: true
+    defaultTheme: "auto"
     # profile mode 
     profileMode:
         enabled: true
@@ -13,16 +20,10 @@ params:
         imageTitle: "<title of image as alt>" # optional
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size
-        buttons:
-            - name: Archive
-              url: "/archive"
-            - name: Github
-              url: "https://github.com/"
-
     socialIcons:
       - name: linkedin
-        url: "https://linkedin.com/in/jahrede"
+        url: "https://linkedin.com/in/jahred"
       - name: github
-        url: "https://github.com/jahrede"
+        url: "https://github.com/jdanker"
       - name: twitter
         url: "https://twitter.com/jahred01"
