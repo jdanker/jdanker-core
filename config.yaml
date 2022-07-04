@@ -24,7 +24,7 @@ menu:
 
 params:
     env: production
-    ShowShareButtons: true
+    ShowShareButtons: false
     defaultTheme: "auto"
     # profile mode 
     profileMode:
@@ -42,3 +42,9 @@ params:
         url: "https://github.com/jdanker"
       - name: twitter
         url: "https://twitter.com/jahred01"
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
+
