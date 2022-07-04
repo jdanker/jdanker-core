@@ -7,6 +7,21 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 enableEmoji: true
 
+menu:
+      main:
+        - name: About
+          url: about
+          weight: 1
+        - name: Thoughts
+          url: thoughts
+          weight: 2
+        - name: Archive
+          url: archives
+          weight: 5
+        - name: Search
+          url: search/
+          weight: 10
+
 params:
     env: production
     ShowShareButtons: true
