@@ -13,7 +13,7 @@ menu:
       url: about
       weight: 1
     - name: Thoughts
-      url: thoughts
+      url: posts
       weight: 2
     - name: Archive
       url: archive
@@ -24,14 +24,15 @@ menu:
 params:
     env: production
     ShowShareButtons: false
-    defaultTheme: "auto"
+    defaultTheme: auto
     # profile mode 
     profileMode:
         enabled: true
         title: "Jahred Danker" # optional default will be site title
         subtitle: "DevOps Engineer"
-        #imageUrl: "<image link>" # optional
-        imageTitle: "<title of image as alt>" # optional
+        imageUrl: "https://github.com/jdanker/jdanker-core/tree/master/resources/_gen/profile_pic.jpg" # optional
+        relative: true
+        imageTitle: # optional
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size
     socialIcons:
