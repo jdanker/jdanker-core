@@ -30,10 +30,6 @@ params:
         enabled: true
         title: "Jahred Danker" # optional default will be site title
         subtitle: "DevOps Engineer"
-        imageUrl: "resources/_gen/profile_pic.jpg" # optional
-        imageTitle: # optional
-        imageWidth: 120 # custom size
-        imageHeight: 120 # custom size
     socialIcons:
       - name: linkedin
         url: "https://linkedin.com/in/jahred"
