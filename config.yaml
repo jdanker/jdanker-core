@@ -28,8 +28,8 @@ params:
     # profile mode 
     profileMode:
         enabled: true
-        title: "Jahred Danker" # optional default will be site title
-        subtitle: "DevOps Engineer"
+        title: "Hey, I'm Jahred" # optional default will be site title
+        subtitle: " a DevOps Engineer"
     socialIcons:
       - name: linkedin
         url: "https://linkedin.com/in/jahred"
