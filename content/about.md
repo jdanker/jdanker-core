@@ -23,7 +23,7 @@ If you don't love doing something, it is extremely difficult to motivate yoursel
 
 Relatively straightforward to get setup, infinitely customizable. 
 
-Hugo is also built on Go, which I am eager to dive into more. I don't work with object oriented programming much with my job, so the opportunity i
+Hugo is also built on Go, which I am eager to dive into more. I don't work with object oriented programming much with my job, so the opportunity to delve into something like Go instead of a Javascript framework is much more enticing to me.
 
 ## Education:
 #### From The University of South Carolina: 
