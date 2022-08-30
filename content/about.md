@@ -14,7 +14,7 @@ For the past/first year of my professional career I have mostly been working wit
 A lot of chef, jenkins, and bash. 
 
 ### On the Side - 
-#### [This website](www.jdanker.com) 
+#### [This website](/) 
 *Why Hugo?*
 
 Originally I had a goal of building a personal website using React. I had built a project with Angular before, and my thought was *React is popular, right? I should learn that.* Turns out I don't love web development, especially the front end.
