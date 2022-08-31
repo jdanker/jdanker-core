@@ -25,6 +25,11 @@ params:
     env: production
     ShowShareButtons: false
     defaultTheme: auto
+    favicon: "/static/favicon.ico"
+    favicon16x16:  "static/favicon-16x16.png"
+    favicon32x32:  "static/favicon-32x32.png"
+    apple_touch_icon:  "/static/favicon.ico"
+    safari_pinned_tab:  "/static/favicon.ico"
     # profile mode 
     profileMode:
         enabled: true
