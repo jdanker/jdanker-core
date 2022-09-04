@@ -13,7 +13,7 @@ menu:
       url: about
       weight: 1
     - name: Thoughts
-      url: posts
+      url: content/posts
       weight: 2
     - name: Archive
       url: archive
