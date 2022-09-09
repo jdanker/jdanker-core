@@ -33,4 +33,3 @@ Hugo is also built on Go, which I am eager to dive into more. I don't work with 
   * Minor in Business Information Management 
 
 
-

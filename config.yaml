@@ -13,7 +13,7 @@ menu:
       url: about
       weight: 1
     - name: Thoughts
-      url: content/posts
+      url: posts
       weight: 2
     - name: Archive
       url: archive
@@ -37,6 +37,8 @@ params:
         url: "https://github.com/jdanker"
       - name: twitter
         url: "https://twitter.com/jahred01"
+      - name: email
+        url: "mailto:jahrede@gmail.com"
 outputs:
   home:
     - HTML
