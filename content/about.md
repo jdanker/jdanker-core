@@ -30,6 +30,6 @@ During my senior year of college, our team created an AI chatbot for a fictional
   * Bachelor of Science in Computer Information Systems
   * Minor in Business Information Management 
 
-## [Resume](/static/files/Resume.docx) 
+### [Download Resume](/files/Resume.pdf) 
 
 
