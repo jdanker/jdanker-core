@@ -5,8 +5,11 @@ summary: "about"
 ---
 
 ## Currently:
+
 ### Professionally -
-#### Mastercard, Software Engineer - Contractor 
+
+#### Mastercard, Software Engineer - Contractor  
+
 *July 2021 - Present*
 
 I have mostly been working with CI/CD processes and automated deployment at Mastercard. This includes custom automations and deploy processes using a combination of Chef, Jenkins, and Bash. 
