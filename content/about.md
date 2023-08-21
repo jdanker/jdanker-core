@@ -27,11 +27,11 @@ Hugo means I don't need to do frontend development, and can just focus on projec
 ### [Advent Of Code](https://github.com/jdanker/adventofcode)
 *What's this?*
 
-My job does not require much object oriented programming, and I'd like to get back to that in my free time. I learn best through hands on work, and Advent of Code allows me to work through interesting challengs to grow my skillset. I plan to work through all the challenges, and then go back through and add tests in order to get familiar with testing in Go.
+My job does not require much object oriented programming, and I'd like to get back to that in my free time. I learn best through hands on work, and Advent of Code allows me to work through interesting challenges to grow my skillset. I plan to work through all the challenges, and then go back through and add tests in order to get familiar with testing in Go.
 
 *Why Go?*
 
-Go is fun, and modern. Kubernetes and Docker both are built on Go, so I think it's worth diving into what makes some of the most robust and poopular DevOps platforms run. 
+Go is fun, and modern. Kubernetes and Docker both are built on Go, so I think it's worth diving into what makes some of the most robust and popular DevOps platforms run. 
 
 ### [Cable Company Support Chatbot: Capstone Project](https://github.com/SCCapstone/CCChatbot)
 *Completed May 2020*
