@@ -6,11 +6,17 @@ summary: "about"
 
 ## Professionally -
 
+### Booz Allen Hamilton, DevOps Engineer
+
+*September 2023 - Present*
+
+
+
 ### Mastercard, Software Engineer - Contractor  
 
-*July 2021 - Present*
+*July 2021 - September 2023*
 
-The majority of my work involves creating and maintaining automations, CI/CD processes, and supporting application deployments and infrastructure. (Traditional DevOps type stuff)
+The majority of my work involved creating and maintaining automations, CI/CD processes, and supporting application deployments and infrastructure. I built several automations designed to assist developers in 
 
 *My other non-engineering work, notably internships and IT work through college are listed in detail on my resume [here](/files/Resume.pdf)*
 
