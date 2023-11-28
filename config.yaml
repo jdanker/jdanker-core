@@ -44,4 +44,4 @@ outputs:
   home:
     - HTML
     - RSS
-    - JSON # is necessary
+    - JSON 
