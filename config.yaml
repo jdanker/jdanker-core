@@ -35,8 +35,6 @@ params:
         url: "https://linkedin.com/in/jahred"
       - name: github
         url: "https://github.com/jdanker"
-      - name: twitter
-        url: "https://twitter.com/jahred01"
       - name: threads
         url: "https://www.threads.net/@jahred.danker"
       - name: email
