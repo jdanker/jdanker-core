@@ -27,6 +27,9 @@ params:
         enabled: true
         title: "Jahred Danker" # default is site title
         subtitle: "DevOps Engineer @ Booz Allen Hamilton"
+        buttons:
+          - name: Download Resume
+            url: "/files/Resume.pdf"
     socialIcons:
       - name: linkedin
         url: "https://linkedin.com/in/jahred"
