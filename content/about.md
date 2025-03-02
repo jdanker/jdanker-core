@@ -10,6 +10,7 @@ summary: "about"
 
 *September 2023 - Present*
 
+Currently I work on a DevOps team supporting developer enablement efforts at Booz Allen.
 
 
 ### Mastercard, Software Engineer - Contractor  
@@ -18,7 +19,7 @@ summary: "about"
 
 The majority of my work involved creating and maintaining automations, CI/CD processes, and supporting application deployments and infrastructure. I built several automations designed to assist developers in 
 
-*My other non-engineering work, notably internships and IT work through college are listed in detail on my resume [here](/files/Resume.pdf)*
+*My other non-engineering work, notably internships and IT work throughout college are listed in detail on my resume [here](/files/Resume.pdf)*
 
 
 ## On the Side - 
