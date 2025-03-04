@@ -13,7 +13,7 @@ summary: "about"
 Currently I work on a DevOps team supporting developer enablement efforts at Booz Allen. I support, maintain, and build automations for both on prem and cloud hosted developer enablement solutions including Github Enterprise, Jenkins, Ansible, and Nexus. 
 
 
-### Mastercard, Software Engineer 
+### Mastercard, DevOps Engineer 
 
 #### July 2021 - September 2023
 
