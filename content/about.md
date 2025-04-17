@@ -10,7 +10,7 @@ summary: "about"
 
 #### September 2023 - Present
 
-Currently I work on a DevOps team supporting developer enablement efforts at Booz Allen. I support, maintain, and build automations for both on prem and cloud hosted developer enablement solutions including Github Enterprise, Jenkins, Ansible, and Nexus. 
+I architect and maintain enterprise developer platforms specializing in GitHub Enterprise, GitHub Actions, Jenkins, Ansible, Rundeck, and Nexus. I develop automation solutions in Go using REST APIs that streamline CI/CD pipelines and deployment workflows to deliver scalable DevOps practices that enhance efficiency and maintain mission-critical systems.
 
 
 ### Mastercard, DevOps Engineer 
@@ -28,6 +28,9 @@ My background is not web development. I am not a react or typescript wizard, but
 *Why Hugo?*
 
 Hugo means I don't need to do frontend development, and can just focus on projects I enjoy, and link them here. Hugo is also written in Go, making it easily modifieable and customizable.
+
+### [StockLens](https://github.com/jdanker/stocklens)
+This is intended to be a CLI based stock valuation tool using Go and Python to retrieve publicly available data and return a score between -1 (undervalued) and 1 (overvalued).
 
 ### [Cable Company Support Chatbot: Capstone Project](https://github.com/SCCapstone/CCChatbot)
 #### Completed May 2020
