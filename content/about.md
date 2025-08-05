@@ -29,9 +29,6 @@ My background is not web development. I am not a react or typescript wizard, but
 
 Hugo means I don't need to do frontend development, and can just focus on projects I enjoy, and link them here. Hugo is also written in Go, making it easily modifieable and customizable.
 
-### [StockLens](https://github.com/jdanker/stocklens)
-This is intended to be a CLI based stock valuation tool using Go and Python to retrieve publicly available data and return a score between -1 (undervalued) and 1 (overvalued).
-
 ### [Cable Company Support Chatbot: Capstone Project](https://github.com/SCCapstone/CCChatbot)
 #### Completed May 2020
 
