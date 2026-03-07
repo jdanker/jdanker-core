@@ -2,7 +2,7 @@
 title: "About Me"
 url: "/about/"
 summary: "about"
--------
+---
 
 ## Professionally -
 
@@ -28,6 +28,13 @@ My background is not web development. I am not a react or typescript wizard, but
 *Why Hugo?*
 
 Hugo means I don't need to do frontend development, and can just focus on projects I enjoy, and link them here. Hugo is also written in Go, making it easily modifieable and customizable.
+
+### [Apeti](https://github.com/jdanker/apeti)
+An iOS application to essentially be a wish-list of local restaurants to try. I decided to build this after I continued to write local restaurants I would come across in an Apple Notes list. This application is designed to solve that use case with additional information like cuisine type, price, and additional recommendations coming soon.
+
+*Claude in the commits?*
+
+This project was sort of a two pronged goal of experimenting with SwfitUI and modern iOS developement (something I had zero experience with) and experimenting with the world of AI development, specifically with Claude code and modern coding agents. The intention was not to simply vibe code an app, but to learn how AI assisted development can enhance and accelerate learning an entirely new tech stack from the ground up.
 
 ### [Cable Company Support Chatbot: Capstone Project](https://github.com/SCCapstone/CCChatbot)
 #### Completed May 2020

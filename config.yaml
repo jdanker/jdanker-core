@@ -10,16 +10,19 @@ enableEmoji: true
 menu:
   main:
     - name: About
-      url: about
+      url: /about
       weight: 1
     - name: Thoughts
-      url: posts
+      url: /posts
       weight: 2
     - name: Archive
-      url: archive
+      url: /archive
       weight: 5
 params:
     env: production
+    author: "Jahred Danker"
+    description: "Personal landing page for Jahred Danker"
+    canonicalURL: true
     ShowShareButtons: false
     defaultTheme: auto
     # profile mode 
