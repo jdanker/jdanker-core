@@ -29,7 +29,7 @@ My background is not web development. I am not a react or typescript wizard, but
 
 Hugo means I don't need to do frontend development, and can just focus on projects I enjoy, and link them here. Hugo is also written in Go, making it easily modifieable and customizable.
 
-### [Apeti](https://github.com/jdanker/apeti)
+### [Savor](https://github.com/jdanker/savor)
 An iOS application to essentially be a wish-list of local restaurants to try. I decided to build this after I continued to write local restaurants I would come across in an Apple Notes list. This application is designed to solve that use case with additional information like cuisine type, price, photos, and more coming soon.
 
 *Claude in the commits?*
