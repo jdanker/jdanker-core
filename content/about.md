@@ -6,14 +6,19 @@ summary: "about"
 
 ## Professionally -
 
+### NISA Investment Advisors LLC, Platform Engineer
+
+#### June 2026 - Present
+
+*Coming soon*
+
 ### Booz Allen Hamilton, DevOps Engineer
 
-#### September 2023 - Present
+#### September 2023 - June 2026
 
-I architect and maintain enterprise developer platforms specializing in GitHub Enterprise, GitHub Actions, Jenkins, Ansible, Rundeck, and Nexus. I develop automation solutions in Go using REST APIs that streamline CI/CD pipelines and deployment workflows to deliver scalable DevOps practices that enhance efficiency and maintain mission-critical systems.
+I architected and maintained enterprise developer platforms such as GitHub Enterprise, GitHub Actions, Jenkins, Ansible, Rundeck, and Nexus. I built automation solutions in Go using REST APIs that streamlined CI/CD pipelines and deployment workflows to deliver scalable DevOps practices that enhance efficiency and maintain mission-critical systems for developers enterprise-wide.
 
-
-### Mastercard, DevOps Engineer 
+### Mastercard, DevOps Engineer
 
 #### July 2021 - September 2023
 

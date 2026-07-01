@@ -29,7 +29,7 @@ params:
     profileMode:
         enabled: true
         title: "Jahred Danker" # default is site title
-        subtitle: "DevOps Engineer @ Booz Allen Hamilton"
+        subtitle: "Platform Engineer @ NISA Investment Advisors LLC"
         buttons:
           - name: Download Resume
             url: "/files/Resume.pdf"
@@ -38,8 +38,6 @@ params:
         url: "https://linkedin.com/in/jahred"
       - name: github
         url: "https://github.com/jdanker"
-      - name: bluesky
-        url: "https://bsky.app/profile/jdanker.com"
       - name: threads
         url: "https://www.threads.net/@jahred.danker"
       - name: email
