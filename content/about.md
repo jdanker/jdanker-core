@@ -10,7 +10,7 @@ summary: "about"
 
 #### June 2026 - Present
 
-*Coming soon*
+I design, implement, and maintain scalable cloud infrastructure. My work centers on building and maintaining CI/CD pipelines, managing Infrastructure as Code with Terraform, and deploying secure, reliable infrastructure on AWS. I automate provisioning, configuration, and monitoring across the platform, and partner closely with development and operations teams to improve deployment strategies and system reliability.
 
 ### Booz Allen Hamilton, DevOps Engineer
 
