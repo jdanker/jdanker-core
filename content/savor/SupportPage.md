@@ -1,11 +1,10 @@
 ---
-title: ""
+title: "Savor — Support"
+description: "Help and frequently asked questions for Savor, an iOS app for tracking restaurants you want to try."
 url: "/savor/support"
 draft: false
 hideMeta: true
 ---
-
-# Savor — Support
 
 Savor is a personal restaurant tracking app for iOS. Save places you want to try, mark the ones you've been to, and organize them into lists.
 

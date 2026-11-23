@@ -1,12 +1,11 @@
 ---
-title: ""
+title: "Savor — Privacy Policy"
+description: "How Savor, an iOS restaurant tracking app, handles your data. Your saved restaurants stay on your device."
 date: 2026-11-14
 url: "/savor/privacy"
 draft: false
 hideMeta: true
 ---
-
-# Privacy Policy — Savor
 
 **Effective Date:** November 14, 2026
 **Developer:** Jahred Danker
